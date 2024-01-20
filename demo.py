@@ -1,3 +1,4 @@
-v=1
-v2=5
-print("Total Of Volume", v+v2)
+if input ("Enter Your Age ")>= "18":
+   print ("You are eligible for Vote")
+else:
+   Print("You are not eligible for vote")
